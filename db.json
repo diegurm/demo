@@ -29,6 +29,7 @@
     {
       "id": 1,
       "name": "Camisa Juventus Away 20/21 s/n° Jogador Adidas Masculina - Marinho",
+      "brand": "Adidas",
       "price": 349.99,
       "sizes": [
         "P",
@@ -46,6 +47,7 @@
     {
       "id": 2,
       "name": "Camisa Arsenal Home 20/21 s/nº Torcedor Adidas Masculina - Vermelho e Branco",
+      "brand": "Adidas",
       "price": 279.99,
       "sizes": [
         "P",
@@ -63,6 +65,7 @@
     {
       "id": 3,
       "name": "Camisa Real Madrid Away 20/21 s/n° Torcedor Adidas Masculina - Pink",
+      "brand": "Adidas",
       "price": 279.99,
       "sizes": [
         "EP",
@@ -79,6 +82,7 @@
     {
       "id": 4,
       "name": "Camisa Barcelona Retrô 1889 Masculina - Azul",
+      "brand": "Adidas",
       "price": 99.99,
       "sizes": [
         "EP",
